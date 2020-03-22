@@ -64,8 +64,7 @@ Stand: 20.03.2020 - 23:30Uhr
     sein](https://www.aerzteblatt.de/nachrichten/109657/Covid-19-Asymptomatische-Patienten-mit-negativem-PCR-koennen-Virus-uebertragen)
   - [Wie man einen Schutzanzug richtig
     auszieht](https://twitter.com/traumagasdoc/status/1238244112773545984)
-  - [A guide for caring for Covid-19 patients at
-    home](http://covid-at-home.info/)
+  - [A guide for caring for Covid-19 patients at home](https://covid-at-home.info/) ([Deutsch](https://covid-zu-hause.info/))
   - [Open letter from Italy to the international scientific
     community](https://left.it/2020/03/13/covid_19-open-letter-from-italy-to-the-international-scientific-community/)
   - [Among outpatient health care personnel, N95 respirators vs medical
